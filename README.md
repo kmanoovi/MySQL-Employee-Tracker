@@ -9,3 +9,7 @@
 ## About
 
 A command-line application that accepts user input, allowing the user to view and manage information about the employees in their company.
+
+# Video Link
+
+https://drive.google.com/file/d/1bx4E57tnJAvNGTUl74i2VdqienNQTKwx/view
